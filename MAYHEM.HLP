@@ -1,0 +1,24 @@
+SCAN  - (HLP1)  sensor scan        PROTECT  - (HLP24) Save a planet
+Wdv   - (HLP2)  Warp drive         GO       - (HLP25) Goto a planet
+RPTn  - (HLP3)  Repeat n times     LEAVE    - (HLP26) Shore leave
+QUIT  - (HLP4)  Return to BBS      TAXES    - (HLP27) Pay your taxes
+STAT  - (HLP5)  Ships status       COMMAND  - (HLP28) Command files
+INFO  - (HLP6)  Prices on planet   SPY      - (HLP29) + Remote operations
+Tdv   - (HLP7)  Fire torpedo       PLAGUE   - (HLP30) Bio Weapons
+BOARD - (HLP8)  Board enemy        DESTRUCT - (HLP31) Self Destruct
+POWER - (HLP9)  Shield Power       COMETS   - (HLP32) Comets/ion info
+Siv   - (HLP10) Sell 'S' -help     PING     - (HLP33) Enemy strength
+Biv   - (HLP11) Buy 'B' -help      SLED     - (HLP34) Attack Sleds
+BASE  - (HLP12) Base functions     AUCTION  - (HLP35) Buy taxed ship
+A     - (HLP13) Do it again        NAV      - (HLP36) Nav planets
+MSG   - (HLP14) Subspace msgs      SYSOP    - (HLP37) SysOp functions
+TIME  - (HLP15) Time remaining     PASS     - (HLP38) Change password
+STAND - (HLP16) Top ten ships      COLOR    - (HLP39) Toggle colors
+NAMES - (HLP17) Everyones names    BOUNTY   - (HLP40) Bounty Hunter
+NAME  - (HLP18) Name a planet      MAP      - (HLP41) Universe Map
+LONG  - (HLP19) Find a ship        LEASH    - (HLP42) Leash a ship
+PEACE - (HLP20) Declare peace      SCOUT    - (HLP43) Scout ships
+FIRE  - (HLP21) Fire phasers       CHAT     - (HLP44) Page the SysOp
+FIND  - (HLP22) Find planets       OWN      - (HLP45) Where's your planets?
+REMnPr- (HLP23) Do remotes         #        - (HLP46) Keyboard macros
+
